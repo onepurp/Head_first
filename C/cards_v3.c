@@ -24,7 +24,8 @@ int main()
 				break;
 			case 'X':
 				puts("Ending the program");
-				break;
+				break; // break wouldn’t break us out of the loop,
+				       // because we’re inside a switch statement
 			default:
 				val = atoi(card_name);
 				if (!(val >= 1 && val <= 10))
