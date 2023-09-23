@@ -13,6 +13,5 @@ int main()
 		if (score >= 90)
 		{
 			grade == 'A';
-			printf("%s  %i  %s", name, score, grade); 
 		}
 }
