@@ -37,4 +37,4 @@ Simple Calculator Menu:
 
 
 ## The Solution
-Look at [Simple_calculator.c]() file
+Look at [Simple_calculator_v2.c]() file
